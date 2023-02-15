@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{50401FE8-8CFD-4836-96A5-91A61F66C3DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.CursoCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fundamentos/NotacaoPonto.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="67" />
+      <File FileName="Fundamentos/NotacaoPonto.cs" Line="10" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CursoCSharp" expanded="True">
+            <Node name="CursoCSharp" expanded="True">
+              <Node name="Fundamentos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
