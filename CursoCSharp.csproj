@@ -10,7 +10,4 @@
   <ItemGroup>
     <None Remove="Fundamentos\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Fundamentos\" />
-  </ItemGroup>
 </Project>

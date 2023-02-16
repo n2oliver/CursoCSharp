@@ -1,0 +1,4 @@
+C:\Users\Oliver\Documents\desenvolvimento\CursoCSharp\obj\Debug\net2.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver\Documents\desenvolvimento\CursoCSharp\obj\Debug\net2.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Oliver\Documents\desenvolvimento\CursoCSharp\obj\Debug\net2.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Oliver\Documents\desenvolvimento\CursoCSharp\obj\Debug\net2.0\CursoCSharp.csproj.CoreCompileInputs.cache
