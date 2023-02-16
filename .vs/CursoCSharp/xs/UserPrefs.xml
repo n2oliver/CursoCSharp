@@ -1,26 +1,38 @@
 ﻿<Properties StartupConfiguration="{50401FE8-8CFD-4836-96A5-91A61F66C3DE}|Default">
-  <MonoDevelop.Ide.ItemProperties.CursoCSharp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Fundamentos/NotacaoPonto.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="13" Column="67" />
-      <File FileName="Fundamentos/NotacaoPonto.cs" Line="10" Column="32" />
+      <File FileName="Fundamentos/NotacaoPonto.cs" Line="4" Column="3" />
+      <File FileName="Fundamentos/OperadoresAritmeticos.cs" Line="4" Column="2" />
+      <File FileName="Fundamentos/CentralDeExercícios.cs" Line="7" Column="5" />
+      <File FileName="Fundamentos/Comentarios.cs" Line="3" Column="3" />
+      <File FileName="Fundamentos/Conversoes.cs" Line="12" Column="16" />
+      <File FileName="Fundamentos/FormatandoNumero.cs" Line="1" Column="1" />
+      <File FileName="Fundamentos/Inferencia.cs" Line="4" Column="3" />
+      <File FileName="Fundamentos/Interpolacao.cs" Line="4" Column="3" />
+      <File FileName="Fundamentos/LendoDados.cs" Line="1" Column="1" />
+      <File FileName="Fundamentos/PrimeiroPrograma.cs" Line="13" Column="1" />
+      <File FileName="Fundamentos/VariaveisEConstantes.cs" Line="3" Column="3" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.103/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="23" Column="116" />
+      <File FileName="CursoCSharp.csproj" Line="5" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CursoCSharp" expanded="True">
             <Node name="CursoCSharp" expanded="True">
-              <Node name="Fundamentos" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CursoCSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
