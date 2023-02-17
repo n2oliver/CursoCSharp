@@ -19,6 +19,7 @@ class Program
                 { "Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
                 { "Operadores de Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
                 { "Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
+                { "Operador Ternario - Fundamentos", OperadorTernario.Executar},
             });
         central.SelecionarEExecutar();
     }
