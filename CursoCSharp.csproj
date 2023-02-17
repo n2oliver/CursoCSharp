@@ -9,5 +9,9 @@
 
   <ItemGroup>
     <None Remove="Fundamentos\" />
+    <None Remove="EstruturasDeControle\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EstruturasDeControle\" />
   </ItemGroup>
 </Project>
