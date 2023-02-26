@@ -26,7 +26,13 @@ class Program
 
                 // Estruturas de Controle
                 { "Estrutura If - Estruturas de Controle", EstruturaIf.Executar },
-                { "Estrutura If/Else - Estruturas de Controle", EstruturaIfElse.Executar },
+                { "Estrutura If/Else/If - Estruturas de Controle", EstruturaIfElseIf.Executar },
+                { "Estrutura Switch - Estruturas de Controle", EstruturaSwitch.Executar },
+                { "Estrutura While - Estruturas de Controle", EstruturaWhile.Executar },
+                { "Estrutura Do While - Estruturas de Controle", EstruturaDoWhile.Executar },
+                { "Estrutura For - Estruturas de Controle", EstruturaFor.Executar },
+                { "Estrutura Foreach - Estruturas de Controle", EstruturaForeach.Executar },
+                { "Usando Break - Estruturas de Controle", UsandoBreak.Executar },
             });
         central.SelecionarEExecutar();
     }
