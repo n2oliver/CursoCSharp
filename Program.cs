@@ -33,6 +33,7 @@ class Program
                 { "Estrutura For - Estruturas de Controle", EstruturaFor.Executar },
                 { "Estrutura Foreach - Estruturas de Controle", EstruturaForeach.Executar },
                 { "Usando Break - Estruturas de Controle", UsandoBreak.Executar },
+                { "Usando Continue - Estruturas de Controle", UsandoContinue.Executar },
             });
         central.SelecionarEExecutar();
     }
