@@ -39,6 +39,7 @@ class Program
                 // Classes e Métodos
                 { "Membros - Classes e Métodos", Membros.Executar },
                 { "Construtores - Classes e Métodos", Construtores.Executar },
+                { "Métodos Com Retorno - Classes e Métodos", MetodosComRetorno.Executar },
             });
         central.SelecionarEExecutar();
     }
