@@ -41,6 +41,7 @@ class Program
                 { "Construtores - Classes e Métodos", Construtores.Executar },
                 { "Métodos Com Retorno - Classes e Métodos", MetodosComRetorno.Executar },
                 { "Métodos Estáticos - Classes e Métodos", MetodosEstaticos.Executar },
+                { "Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar },
             });
         central.SelecionarEExecutar();
     }
