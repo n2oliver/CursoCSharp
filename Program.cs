@@ -1,7 +1,8 @@
 ﻿using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
+using CursoCSharp.Colecoes;
 using CursoCSharp.ClassesEMetodos;
-namespace CursoCSharp;
+namespace CursoCSharp { 
 class Program
 {
     static void Main(string[] args)
@@ -50,7 +51,16 @@ class Program
                 { "Readonly - Classes e Métodos", Readonly.Executar },
                 { "Enum - Classes e Métodos", ExemploEnum.Executar },
                 { "Struct - Classes e Métodos", ExemploStruct.Executar },
+                { "Struct Vs Classe - Classes e Métodos", StructVsClasse.Executar },
+                { "Valor Vs Referencia - Classes e Métodos", ValorVsReferencia.Executar },
+                { "Parâmetros por Referencia - Classes e Métodos", ParametrosPorReferencia.Executar },
+                { "Parâmetros com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar },
+
+                // Coleções
+                { "Array - Coleções", Colecoes.Array.Executar },
+                { "List - Coleções", ColecoesList.Executar },
             });
         central.SelecionarEExecutar();
+    }
     }
 }
