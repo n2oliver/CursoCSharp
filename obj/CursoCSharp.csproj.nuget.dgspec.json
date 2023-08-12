@@ -32,7 +32,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Oliver\\Documents\\desenvolvimento\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\Oliver\\Documents\\desenvolvimento\\Encapsulamento\\Encapsulamento.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -62,6 +66,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Oliver\\Documents\\desenvolvimento\\Encapsulamento\\Encapsulamento.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oliver\\Documents\\desenvolvimento\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\Oliver\\Documents\\desenvolvimento\\Encapsulamento\\Encapsulamento.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

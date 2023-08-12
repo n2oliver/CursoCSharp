@@ -2,6 +2,9 @@
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Colecoes;
 using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.OO;
+using Encapsulamento;
+
 namespace CursoCSharp { 
 class Program
 {
@@ -65,6 +68,12 @@ class Program
                 { "Igualdade - Coleções", Igualdade.Executar },
                 { "Stack - Coleções", ColecoesStack.Executar },
                 { "Dictionary - Coleções", ColecoesDictionary.Executar },
+
+                // OO
+                { "Heranca - OO", Heranca.Executar },
+                { "Construtor This - OO", ConstrutorThis.Executar },
+                { "Encapsulamento - OO", Encapsulamento.Encapsulamento.Executar },
+
             });
         central.SelecionarEExecutar();
     }
