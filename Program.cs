@@ -3,15 +3,14 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.Colecoes;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.OO;
-using Encapsulamento;
 
 namespace CursoCSharp { 
 class Program
 {
     static void Main(string[] args)
     {
-        CentralDeExercicios central = new CentralDeExercicios(
-            new Dictionary<string, Action>() {
+            CentralDeExercicios central = new CentralDeExercicios(
+                new Dictionary<string, Action>() {
                 // Fundamentos
                 { "Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 { "Comentários - Fundamentos", Comentarios.Executar},
@@ -71,10 +70,12 @@ class Program
 
                 // OO
                 { "Heranca - OO", Heranca.Executar },
-                { "Construtor This - OO", ConstrutorThis.Executar },
-                { "Encapsulamento - OO", Encapsulamento.Encapsulamento.Executar },
+                { "Construtor This - OO", OO.ConstrutorThis.Executar },
+                { "Encapsulamento - OO", OO.Encapsulamento.Executar },
+                { "Polimorfismo - OO", OO.Polimorfismo.Executar },
+                { "Abstract - OO", OO.Abstract.Executar },
 
-            });
+                }); ;
         central.SelecionarEExecutar();
     }
     }

@@ -11,8 +11,4 @@
     <None Remove="Fundamentos\" />
     <None Remove="EstruturasDeControle\" />
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
-  </ItemGroup>
 </Project>
