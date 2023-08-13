@@ -34,7 +34,7 @@ namespace CursoCSharp.OO
             // Console.WriteLine(amiga.UsaMuitoPhotoshop);
         }
     }
-    public class Encapsulamento
+    class Encapsulamento
     {
         public static void Executar()
         {

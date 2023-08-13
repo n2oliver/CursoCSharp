@@ -52,7 +52,7 @@ namespace CursoCSharp.OO
             Peso += carne.Peso;
         }
     }
-    public class Polimorfismo
+    class Polimorfismo
     {
         public static void Executar()
         {
