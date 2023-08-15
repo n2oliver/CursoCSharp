@@ -84,6 +84,7 @@ class Program
                     { "Usando Delegates - Métodos & Funções", UsandoDelegates.Executar },
                     { "Delegates como Funções Anonimas - Métodos & Funções", DelegateFunAnonima.Executar },
                     { "Delegates como Parâmetros - Métodos & Funções", DelegatesComoParametros.Executar },
+                    { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar },
 
                 }); ;
         central.SelecionarEExecutar();

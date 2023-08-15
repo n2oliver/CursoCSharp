@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CursoCSharp.MetodosEFuncoes
 {
-	public class DelegateFunAnonima
+	class DelegateFunAnonima
 	{
 		delegate string StringOperacao(string s);
 		public static void Executar()

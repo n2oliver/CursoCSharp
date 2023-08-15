@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CursoCSharp.MetodosEFuncoes
 {
-	public class UsandoDelegates
+	class UsandoDelegates
 	{
 		delegate double Soma(double a, double b);
 		delegate void ImprimaSoma(double a, double b);

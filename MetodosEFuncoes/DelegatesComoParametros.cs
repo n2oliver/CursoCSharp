@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CursoCSharp.MetodosEFuncoes
 {
-	public class DelegatesComoParametros
+	class DelegatesComoParametros
     {
 		public delegate int Operacao(int x, int y);
 
