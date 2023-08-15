@@ -10,5 +10,9 @@
   <ItemGroup>
     <None Remove="Fundamentos\" />
     <None Remove="EstruturasDeControle\" />
+    <None Remove="MetodosEFuncoes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MetodosEFuncoes\" />
   </ItemGroup>
 </Project>
